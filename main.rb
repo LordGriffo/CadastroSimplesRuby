@@ -1,9 +1,3 @@
-#Simples script de registro em Ruby
-#Desmarque a opção referente ao sistema que for testar
-#script feito em um sábado assistindo MY da MTV
-#somente para brincar hahah
-#Ruby, Ruby, Não Rails !
-
 while true do
 
 puts "Cadastro de fluxo de pessoas"
